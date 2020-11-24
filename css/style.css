@@ -1077,9 +1077,7 @@ section{
 }
 
     .imagem-s15 > img{
-        position: absolute;
-        right: 0;
-        width: 100% !important;
+        width: 80% !important;
     }
 
 .section-15 .texto-s15{
@@ -1975,9 +1973,6 @@ section{
         }
 
         .imagem-s15 > img{
-            position: absolute !important;
-            right: -20px;
-
             width: 100% !important;
         }
 
